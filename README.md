@@ -1,2 +1,2 @@
 # Hangman
-Here is a hobby project I created with Python.
+Here is a little program I created with Python to begin learning how to use the language.
